@@ -1,0 +1,6 @@
+[package]
+name = "forecast_cli"
+version = "0.1.0"
+authors = ["Jesse C. Grillo <jesse.grillo@gmail.com>"]
+
+[dependencies]
